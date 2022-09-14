@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Flutter Projects\\welcome page\\build\\shared_preferences_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
+            "outputFile": "/home/usman/Flutter Projects/fyp/build/shared_preferences_android/intermediates/merged_res/debug/values-pa/values-pa.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Samsung\\.gradle\\caches\\transforms-3\\032c58922bb38a99adf98a8b0941b4fc\\transformed\\core-1.6.0\\res\\values-pa\\values-pa.xml",
+                    "source": "/home/usman/.gradle/caches/transforms-3/032c58922bb38a99adf98a8b0941b4fc/transformed/core-1.6.0/res/values-pa/values-pa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "D:\\Flutter Projects\\welcome page\\build\\shared_preferences_android\\intermediates\\merged_res\\debug\\values-pa\\values-pa.xml",
+            "outputFile": "/home/usman/Flutter Projects/fyp/build/shared_preferences_android/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Samsung\\.gradle\\caches\\transforms-3\\032c58922bb38a99adf98a8b0941b4fc\\transformed\\core-1.6.0\\res\\values-pa\\values-pa.xml",
+                    "source": "/home/usman/.gradle/caches/transforms-3/032c58922bb38a99adf98a8b0941b4fc/transformed/core-1.6.0/res/values-pa/values-pa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

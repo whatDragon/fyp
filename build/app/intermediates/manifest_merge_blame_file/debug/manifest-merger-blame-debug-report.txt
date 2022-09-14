@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->D:\Flutter Projects\welcome page\android\app\src\debug\AndroidManifest.xml:6:5-66
-14-->D:\Flutter Projects\welcome page\android\app\src\debug\AndroidManifest.xml:6:22-64
+14-->/home/usman/Flutter Projects/fyp/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/home/usman/Flutter Projects/fyp/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <!--
 16     io.flutter.app.FlutterApplication is an android.app.Application that
 17         calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -24,7 +24,7 @@
 22    <application
 23        android:name="android.app.Application"
 24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-24-->[androidx.core:core:1.6.0] C:\Users\Samsung\.gradle\caches\transforms-3\032c58922bb38a99adf98a8b0941b4fc\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+24-->[androidx.core:core:1.6.0] /home/usman/.gradle/caches/transforms-3/032c58922bb38a99adf98a8b0941b4fc/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 25        android:debuggable="true"
 26        android:icon="@mipmap/ic_launcher"
 27        android:label="flutter_auth" >
@@ -54,17 +54,17 @@
 51            android:value="2" />
 52
 53        <uses-library
-53-->[androidx.window:window:1.0.0-beta04] C:\Users\Samsung\.gradle\caches\transforms-3\39a13d14d6cfd824e114bd3c6574b2e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+53-->[androidx.window:window:1.0.0-beta04] /home/usman/.gradle/caches/transforms-3/39a13d14d6cfd824e114bd3c6574b2e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 54            android:name="androidx.window.extensions"
-54-->[androidx.window:window:1.0.0-beta04] C:\Users\Samsung\.gradle\caches\transforms-3\39a13d14d6cfd824e114bd3c6574b2e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+54-->[androidx.window:window:1.0.0-beta04] /home/usman/.gradle/caches/transforms-3/39a13d14d6cfd824e114bd3c6574b2e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
 55            android:required="false" />
-55-->[androidx.window:window:1.0.0-beta04] C:\Users\Samsung\.gradle\caches\transforms-3\39a13d14d6cfd824e114bd3c6574b2e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+55-->[androidx.window:window:1.0.0-beta04] /home/usman/.gradle/caches/transforms-3/39a13d14d6cfd824e114bd3c6574b2e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
 56        <uses-library
-56-->[androidx.window:window:1.0.0-beta04] C:\Users\Samsung\.gradle\caches\transforms-3\39a13d14d6cfd824e114bd3c6574b2e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+56-->[androidx.window:window:1.0.0-beta04] /home/usman/.gradle/caches/transforms-3/39a13d14d6cfd824e114bd3c6574b2e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
 57            android:name="androidx.window.sidecar"
-57-->[androidx.window:window:1.0.0-beta04] C:\Users\Samsung\.gradle\caches\transforms-3\39a13d14d6cfd824e114bd3c6574b2e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+57-->[androidx.window:window:1.0.0-beta04] /home/usman/.gradle/caches/transforms-3/39a13d14d6cfd824e114bd3c6574b2e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
 58            android:required="false" />
-58-->[androidx.window:window:1.0.0-beta04] C:\Users\Samsung\.gradle\caches\transforms-3\39a13d14d6cfd824e114bd3c6574b2e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+58-->[androidx.window:window:1.0.0-beta04] /home/usman/.gradle/caches/transforms-3/39a13d14d6cfd824e114bd3c6574b2e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
 59    </application>
 60
 61</manifest>

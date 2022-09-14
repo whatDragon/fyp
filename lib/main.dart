@@ -4,20 +4,17 @@ import 'package:flutter_auth/constants.dart';
 import 'package:flutter_auth/splash.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+int? isViewed;
 
-
-
-int?  isViewed;
-
-
-void main() async{
+void main() async {
   SystemChrome.setSystemUIOverlayStyle(
-  const SystemUiOverlayStyle(statusBarColor:Colors.transparent));
+      const SystemUiOverlayStyle(statusBarColor: Colors.transparent));
   WidgetsFlutterBinding.ensureInitialized();
   SharedPreferences prefs = await SharedPreferences.getInstance();
-  isViewed=prefs.getInt('onBoard');
- runApp(const MyApp());
+  isViewed = prefs.getInt('onBoard');
+  runApp(const MyApp());
 }
+
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
@@ -32,7 +29,7 @@ class MyApp extends StatelessWidget {
           elevatedButtonTheme: ElevatedButtonThemeData(
             style: ElevatedButton.styleFrom(
               elevation: 0,
-              primary: kPrimaryColor,
+              backgroundColor: kPrimaryColor,
               shape: const StadiumBorder(),
               maximumSize: const Size(double.infinity, 56),
               minimumSize: const Size(double.infinity, 56),
